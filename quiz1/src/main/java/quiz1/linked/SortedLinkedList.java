@@ -6,7 +6,7 @@ package quiz1.linked;
 import java.util.*;
 
 /* Name: Lam Vinh Vong
- * Enrollment Status: FILL IN YOUR ENROLLMENT STATUS
+ * Enrollment Status: cs 146
  */
 
 /*
