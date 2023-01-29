@@ -1,11 +1,11 @@
 
 
-package linked;
+package quiz1.linked;
 
 
 import java.util.*;
 
-/* Name: FIll IN YOUR NAME
+/* Name: Lam Vinh Vong
  * Enrollment Status: FILL IN YOUR ENROLLMENT STATUS
  */
 

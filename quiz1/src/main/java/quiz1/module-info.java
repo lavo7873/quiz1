@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author pubudu
+ * @author lam vong
  *
  */
 module quiz1 {
